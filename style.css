@@ -1,0 +1,88 @@
+
+body{
+    margin: 0px;
+    
+}
+#corpo{
+    width: 600px;
+    height: 1800px;
+    background-color: black;
+}
+
+h1{
+    color: #00A857;
+    font-family: Helvetica;
+    font-style: normal;
+    margin-left: 60px;
+    font-weight: 700;
+    position: absolute;
+    width: 439px;
+    height: 60px;
+    font-size: 30px;
+    line-height: 35px;
+}
+h3{
+    color: white;
+    margin-top: 150px;
+    font-family: Helvetica;
+    margin-left: 60px;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 700;
+}
+#texto{
+    color: white;
+    margin-left: 60px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 23px;
+    font-family: Helvetica;
+    width: 453px;
+}
+.topico{
+    color: white;
+    margin-left: 12px;
+    font-family: Helvetica;
+    width: 367px;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: bold;
+    font-style: normal;
+}
+#siga{
+    color: #00A857;
+    width: 185px;
+    height: 40px;
+    margin-left: 63px;
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+#fundo{
+    width: 540px;
+    height: 296px;
+    margin-left: 30px;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+}
+#textoFinal{
+    width: 474px;
+    height: 242px;
+    margin-left: 38px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: Helvetica;
+
+}
+.t1{
+    margin-left: 218px;
+
+}
+.t2{
+    margin-left: 25px;
+}
